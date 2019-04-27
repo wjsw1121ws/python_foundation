@@ -1,0 +1,4 @@
+{'city':'北京','population':10000}
+{'city':'上海','population':20000}
+{'city':'武汉','population':30000}
+{'city':'深圳','population':40000}

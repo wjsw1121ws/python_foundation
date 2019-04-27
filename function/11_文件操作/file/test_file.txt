@@ -1,0 +1,15 @@
+*.lanyus.com及*.qinxi1992.cn下的全部授权服务器已遭JetBrains封杀
+请搭建自己的IntelliJ IDEA授权服务器，教程在http://blog.lanyus.com/archives/174.html
+
+若资金允许，请点击https://www.jetbrains.com/idea/buy/购买正版，谢谢合作
+学生凭学生证可免费申请正版授权 | 创业公司可5折购买正版授权
+
+欢迎加入 IntelliJ IDEA开源社区 QQ群 | 欢迎加入 企业后台管理基础框架 开源项目
+欢迎使用 极客桌面搜索, 毫秒级响应, 要多快就有多快, 让本地搜索飞起来
+
+破解补丁无需使用注册码，下载地址：http://idea.lanyus.com/jar/JetbrainsIdesCrack-4.2-release-sha1-3323d5d0b82e716609808090d3dc7cb3198b8c4b.jar
+idea15-2018.1.5激活补丁：http://idea.lanyus.com/jar/JetbrainsCrack-2.10-release-enc.jar
+idea14 keygen下载地址：http://idea.lanyus.com/jar/JetbrainsPatchKeygen-1.2.1.jar
+
+注册码有效期为2019年3月10日至2020年3月11日
+使用前请将“0.0.0.0 account.jetbrains.com”及“0.0.0.0 www.jetbrains.com”添加到hosts文件中

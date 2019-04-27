@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<namelist>
+    <name enrolled="yes">
+        <alex>
+            <age>18</age>
+            <address>ShangHai</address>
+        </alex>
+    </name>
+</namelist>
